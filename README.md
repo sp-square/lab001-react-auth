@@ -9,9 +9,8 @@ The provided prototype app comes with three main pages (welcome, authentication 
 - Update the Navigation component to reflect the current auth status (i.e. show "Logout" button) if the user is authenticated
 - Add "route guards" and make sure unauthenticated users can't reach the UserProfilePage route whilst authenticated users shouldn't be able to reach the AuthPage route
 - Store the auth token in browser storage and initialize the web app with the token and appropriate user auth status, if a stored token is found on app startup
-  <br>
-  <br>
-  <br>
+
+<br>
 
 # Tasks
 
@@ -27,10 +26,6 @@ The provided prototype app comes with three main pages (welcome, authentication 
 
 ### Task 6: Store the auth state in browser storage & auto-initialize authentication state
 
-### Deployment
+<br>
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+# Resources
